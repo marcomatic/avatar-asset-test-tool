@@ -34,8 +34,8 @@
 
 
 "main": [
-    {"type": "BaseMale", "model": "TechTribal_Beast_Mask.glb"},
-    {"type": "BaseFemale", "model": "TechTribal_Beast_Mask.glb"}
+    {"type": "BaseMale", "model": "techtribal_beast_mask.glb"},
+    {"type": "BaseFemale", "model": "techtribal_beast_mask.glb"}
   ],
 
 "rarity": "legendary",
