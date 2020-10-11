@@ -33,9 +33,16 @@
   ],
 
 
-"main": [
-    {"type": "BaseMale", "model": "techtribal_beast_mask.glb"},
-    {"type": "BaseFemale", "model": "techtribal_beast_mask.glb"}
+ "main": [
+{
+"type": "BaseMale", 
+"model": "techtribal_beast_mask.glb", 
+"overrideReplaces": [
+   ],
+   "overrideHides": [
+   ]
+},
+{"type": "BaseFemale", "model": "techtribal_beast_mask.glb"}
   ],
 
 "rarity": "legendary",
