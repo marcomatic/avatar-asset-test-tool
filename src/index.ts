@@ -48,7 +48,7 @@ export async function runMain(collectionFolders: string[]) {
     const buildAssetsConfig = {
       assetFoldersAbsPath: assetFolders,
       workingDirAbsPath: workingFolder.name,
-      contentBaseUrl: `https://avatar-asset-test-tool-marcomatic.vercel.app/ `,
+      contentBaseUrl: `https://avatar-asset-test-tool-marcomatic.vercel.app/`,
       collectionName: collectionFolder
     }
 
