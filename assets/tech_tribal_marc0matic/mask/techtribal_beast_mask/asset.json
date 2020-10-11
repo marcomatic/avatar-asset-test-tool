@@ -6,22 +6,19 @@
   },
   "tags": [
     "accessories",
-    "male" ,
     "man" ,
-    "female" ,
     "woman" ,
-   "marc0matic",
+   "marc0matic" ,
    "tech" , 
-   "tribal",
-   "mask",
-   "animals"
-   "beast",
-   "nature",
-   "punk",
-   "fantasy",
-   "animal",
-   "VR",
-   "deer",
+   "tribal" ,
+   "mask" ,
+   "animals" ,
+   "beast" ,
+   "punk" ,
+   "fantasy" ,
+   "animal" ,
+   "VR" ,
+   "deer"
 
    ],
 
@@ -44,3 +41,4 @@
 "rarity": "legendary",
 "description": "VR Infused Beast Mask created by Marc0Matic"
 }
+
