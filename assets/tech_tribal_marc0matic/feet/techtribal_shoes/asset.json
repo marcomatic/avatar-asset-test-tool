@@ -39,6 +39,7 @@
   
   ],
 
+
 "main": [
     {"type": "BaseMale", "model": "TechTribal_Shoes.glb"},
     {"type": "BaseFemale", "model": "TechTribal_Shoes.glb"}
