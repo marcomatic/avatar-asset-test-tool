@@ -8,14 +8,12 @@
     "accessories",
     "male",
     "man",
-   "marc0matic",
    "tech" , 
    "tribal",
    "mask",
-   "animals"
+   "animal",
    "beast",
    "nature",
-   "punk",
    "fantasy",
    "shaman",
    "magic",
@@ -45,6 +43,6 @@
   ],
 
 "rarity": "legendary",
-"description": "Tech Tribal Trousers with Ornate Leg Braces."
+"description": "Tech Tribal Trousers with armored Leg Braces."
 }
 
